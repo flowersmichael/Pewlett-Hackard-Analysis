@@ -33,4 +33,8 @@ Another issue is that, based on report listing those eligible for the mentorship
 Here are three possible solutions to consider:
 * Incentivize some nearing-retirement employees to continue working.
 * Initiate extensive hiring in the most exposed areas.
-* Extend the mentorship program age to include more employees than solely those born in 1965.
+* Extend the mentorship program age to include more employees than solely those born in 1965. For example, adding employees born in 1964 and 1966 brings the mentorship-eligible number up to roughly 20,000 employees.
+
+![Expanded Mentors Titles Count](https://github.com/flowersmichael/Pewlett-Hackard-Analysis/blob/main/Mentors%20by%20Title%20Count%20(1964-66%20DOB).png)
+
+
